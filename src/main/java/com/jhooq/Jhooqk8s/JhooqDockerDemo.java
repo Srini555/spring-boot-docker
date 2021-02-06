@@ -8,6 +8,7 @@ public class JhooqDockerDemo {
 
     public static void main(String[] args) {
         SpringApplication.run(JhooqDockerDemo.class, args);
+        System.out.println("JhooqDockerDemo");
     }
 
 }
